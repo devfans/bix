@@ -1,0 +1,10 @@
+
+Sender
+  |------------------|  -   -  -  - -
+  |   Cache window   |  New Loaded Block (size)
+Cursor
+
+Receiver
+  |------------------------|-----------------------|
+  |  Cache Block(size)     | Cache Window          |
+                          Cursor
